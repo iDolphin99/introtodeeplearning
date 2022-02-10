@@ -1,13 +1,10 @@
-X:35
-T:Sean Cwiss
-Z: id:dc-jig-114
-M:6/8
+X:1
+T:Alexander's
+Z: id:dc-hornpipe-1
+M:C|
 L:1/8
-K:A Dorian
-A|BAA2 BcdB|ABcd ecdf|(3efe ^ddf (3ill
-Z: id:dc-reel-334
-M:C
-L:1/8
-K:E Dorian
-F|D3 d3|ede dBA|B2A G3|D3 DED2 D3G|E^FDE FEBA|!
-FBAF A2Bc|dgg2 agg2|^fdd^c dcAF|G2GF G2:|!
+K:D Major
+(3ABc|dAFA DFAd|fdcd FAdf|gfge fefd|(3efe (3dcB A2 (3ABc|!
+dAFA DFAd|fdcd FAdf|gfge fefd|(3efe dc d2:|!
+AG|FAdA FAdA|GBdB GBdB|Acec Acec|dfaf gecA|!
+FAdA FAdA|GBdB GBdB|Aceg fefd|(3efe dc d2:|!
