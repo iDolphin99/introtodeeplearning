@@ -1,8 +1,16 @@
-X:18
-T:Bonnie Kate
-Z: id:dc-reel-18
-M:C
+X:33
+T:Doctor O'Neill
+Z: id:dc-jig-27
+M:6/8
 L:1/8
 K:D Major
-dB|A2dB ABAF|DFAF EA,CE|DFAF GBed|cABc d2:|!
-fg|a2fd fafd|gfed cdef|gfef gbag|fgec d2:|!
+A|d3 AFD|E2F G2A|BGB Bcd|AGF EFA|!
+d3 AFD|E2F G2A|BGB Bcd|AFD D2:|!
+A|d3 cBA|dfe dcB|AFA Bcd|AGF EFA|!
+d3 cBA|dfe dcB|AFA Bcd|AFD D2:|!
+g|fef afd|dcd fed|g3 f3|gee efg|!
+fef afd|dcd fed|gfg eag|fdc d2:|!
+g|fdf ece|dcB AFd|AFd AFd|AGF E2g|!
+fdf ece|dcB AFA|BGB Bcd|AFD D2:|!
+E|F3 GFG|FGF FED|F3 GFG|AFD EFG|!
+F3 GFG|FGF FED|BGB Bcd|AFD D2:|!
